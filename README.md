@@ -1,10 +1,11 @@
 # Next JS: The Complete Developer's Guide
 by Stephen Grider
-[Link](https://www.udemy.com/course/next-js-the-complete-developers-guide/
+
+[Link to the Course](https://www.udemy.com/course/next-js-the-complete-developers-guide/
 
 ## Getting Started
 
-First, run the development server:
+First, install "node modules" and then run the development server.
 
 ```bash
 # first!!!
